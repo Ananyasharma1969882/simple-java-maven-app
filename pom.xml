@@ -31,9 +31,8 @@
             </manifest>
           </archive>
         </configuration>
-        <properties>
-    <failOnMissingWebXml>false</failOnMissingWebXml>  
-</properties>
+  
+
       </plugin>
     </plugins>
   </build>
